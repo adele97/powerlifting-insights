@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am an equally-average software developer and powerlifter. This is powerlifting in data.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I use the [open powerlifting](https://www.openpowerlifting.org) database to put together the visualisations.
+At the moment I use the IPF dataset as it's smaller and easier to work with. Just while I figure out wtf I am trying to do here, and if anybody cares.
