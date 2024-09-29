@@ -14,7 +14,9 @@ Open Powerlifting is the most comprehensive powerlifting database in existence, 
 The charts in this post use data from the IPF and affiliates only. Mostly because it's a smaller dataset and which is a bit easier (faster) for me to work with at this time.
 
 <div style="text-align: center;max-width: 822px;">
-{% include meet-data.html %}
+
+  <img src="/powerlifting-insights/assets/images/meet-plot.svg" alt="Alt text" style="max-width: 100%; max-height: 100%;">
+
 </div>
 
 ...more to follow
