@@ -140,7 +140,6 @@ code {
 
     text-align: center;
     max-width: 822px;
-    background-image: var(--chart-svg, none);
 
     @media (min-width: 600px) {
       // For screens wider than or equal to 600px, use embedded HTML content

@@ -15,7 +15,7 @@ The chart in this post uses meet data from the IPF and affiliates only. Mostly b
 bit easier (faster) for me to work with at this time. All meet types are included though (Bench and SBD mostly).
 
 
-<div class="custom-chart" style="--chart-svg: url('/assets/images/regions-chart.svg');">
+<div class="custom-chart">
   <div class="html-content">
     {% include charts/regions-chart.html %}
   </div>
@@ -23,14 +23,6 @@ bit easier (faster) for me to work with at this time. All meet types are include
     <img src="/assets/images/regions-chart.svg" alt="participation in IPF-affiliate meets 1966 to 2023">
   </div>
 </div>
-
-[//]: # (<div class="custom-chart">)
-
-[//]: # ()
-[//]: # (  <img src="/powerlifting-insights/assets/images/meet-plot.svg" alt="participation in IPF-affiliate meets 1966 to 2023" style="max-width: 100%; max-height: 100%;">)
-
-[//]: # ()
-[//]: # (</div>)
 
 Region is not a field in the open powerlifting database, I have used the country and region mapping [from the UN](https://unstats.un.org/unsd/methodology/m49/)
 
