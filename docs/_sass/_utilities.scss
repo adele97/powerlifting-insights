@@ -68,6 +68,10 @@
   .sm-width-full { width: 100% !important; }
 }
 
+@media (max-width: $breakpoint-sg) {
+  .sm-width-squeeze { width: 100% !important; }
+}
+
 .block        { display: block !important; }
 .inline-block { display: inline-block !important; }
 
