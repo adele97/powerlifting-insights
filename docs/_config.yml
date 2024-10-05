@@ -22,8 +22,8 @@ title: Power<wbr>lifting in Data
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Powerlifting visualisations that you didn't ask for
-baseurl: "/powerlifting-insights" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://powerliftingindata.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iam_carpenter
 github_username:  adele97
 
@@ -36,7 +36,9 @@ plugins:
 webrick:
   headers:
     Access-Control-Allow-Origin: "*"
-    Cache-Control: "no-cache,no-store"
+    Cache-Control: "no-cache, no-store"
+  mime_types:
+    svg: "image/svg+xml"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

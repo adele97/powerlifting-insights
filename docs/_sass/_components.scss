@@ -2,17 +2,17 @@
 
 // Code formatting
 pre {
-    border-left: $spacer-1 solid $color-border;
-    margin: $spacer-3 0;
-    padding-left: 16px;
-    width: (9 / 12 * 100%); // matches col-9
-    overflow-x: auto;
+  border-left: $spacer-1 solid $color-border;
+  margin: $spacer-3 0;
+  padding-left: 16px;
+  width: (9 / 12 * 100%); // matches col-9
+  overflow-x: auto;
 }
 
 code {
-    color: $color-code;
-    font-size: $body-font-size;
-    padding: 1px 0px;
+  color: $color-code;
+  font-size: $body-font-size;
+  padding: 1px 0px;
 }
 
 
@@ -136,4 +136,38 @@ code {
     }
   }
 
+  .custom-chart {
+
+    text-align: center;
+    max-width: 822px;
+    background-image: var(--chart-svg, none);
+
+    @media (min-width: 600px) {
+      // For screens wider than or equal to 600px, use embedded HTML content
+      background-image: none; // Remove SVG background
+      .html-content {
+        max-width: 100%;
+        max-height: 100%;
+        display: block; // Show the embedded HTML content
+      }
+      .svg-content {
+        display: none; // Hide the SVG
+      }
+    }
+  }
+
+  @media (max-width: 600px) {
+    .custom-chart .html-content {
+      display: none;
+    }
+
+    // Show the SVG content by default for smaller screens
+    .custom-chart .svg-content {
+      display: block;
+    }
+  }
+
 }
+
+
+
