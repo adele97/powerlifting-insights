@@ -20,7 +20,7 @@ bit easier (faster) for me to work with at this time. All meet types are include
     {% include charts/regions-chart.html %}
   </div>
   <div class="svg-content">
-    <img src="/assets/images/regions-chart.svg" alt="participation in IPF-affiliate meets 1966 to 2023">
+    <img src="/assets/charts/regions-chart.svg" alt="participation in IPF-affiliate meets 1966 to 2023">
   </div>
 </div>
 

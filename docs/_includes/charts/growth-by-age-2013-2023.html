@@ -1,0 +1,66 @@
+            <iframe src='about:blank' style='border:none !important;' width='600' height='400' srcdoc="&lt;html lang=&quot;en&quot;>
+   &lt;head>
+       &lt;meta charset=&quot;UTF-8&quot;>
+       &lt;style> html, body { margin: 0; overflow: hidden; } &lt;/style>
+       &lt;script type=&quot;text/javascript&quot; data-lets-plot-script=&quot;library&quot; src=&quot;https://cdn.jsdelivr.net/gh/JetBrains/lets-plot@v4.3.3/js-package/distr/lets-plot.min.js&quot;>&lt;/script>
+   &lt;/head>
+   &lt;body>
+          &lt;div id=&quot;OfZxNs&quot;>&lt;/div>
+   &lt;script type=&quot;text/javascript&quot; data-lets-plot-script=&quot;plot&quot;>
+       var plotSpec={
+&quot;ggtitle&quot;:{
+&quot;text&quot;:&quot;Growth of Powerlifting by Age Group 2013 - 2023&quot;
+},
+&quot;mapping&quot;:{
+},
+&quot;data&quot;:{
+&quot;averageAnnualGrowthRate&quot;:[-2.4890967716099888,7.075487892762133,8.83398753723994,7.59532863729937,5.461012775245533,3.1626123416449436,3.2703714288187635,2.0860997279667837,3.6408020717406453,0.0],
+&quot;ageGroup&quot;:[&quot;10-15&quot;,&quot;16-20&quot;,&quot;21-25&quot;,&quot;26-30&quot;,&quot;31-35&quot;,&quot;36-40&quot;,&quot;41-50&quot;,&quot;51-60&quot;,&quot;61-70&quot;,&quot;71+&quot;]
+},
+&quot;kind&quot;:&quot;plot&quot;,
+&quot;scales&quot;:[{
+&quot;aesthetic&quot;:&quot;x&quot;,
+&quot;discrete&quot;:true,
+&quot;name&quot;:&quot;Age Group&quot;
+},{
+&quot;aesthetic&quot;:&quot;y&quot;,
+&quot;name&quot;:&quot;Avg. Annual Growth (%)&quot;,
+&quot;limits&quot;:[null,null]
+}],
+&quot;layers&quot;:[{
+&quot;mapping&quot;:{
+&quot;x&quot;:&quot;ageGroup&quot;,
+&quot;y&quot;:&quot;averageAnnualGrowthRate&quot;
+},
+&quot;stat&quot;:&quot;identity&quot;,
+&quot;sampling&quot;:&quot;none&quot;,
+&quot;position&quot;:&quot;dodge&quot;,
+&quot;geom&quot;:&quot;bar&quot;,
+&quot;fill&quot;:&quot;#fec92e&quot;,
+&quot;tooltips&quot;:{
+&quot;lines&quot;:[&quot;Age Group|@ageGroup&quot;,&quot;Avg. Growth Rate|@averageAnnualGrowthRate&quot;],
+&quot;formats&quot;:[{
+&quot;field&quot;:&quot;averageAnnualGrowthRate&quot;,
+&quot;format&quot;:&quot;{.1f}%&quot;
+}],
+&quot;disable_splitting&quot;:true
+},
+&quot;data&quot;:{
+}
+}],
+&quot;theme&quot;:{
+&quot;axis_ontop&quot;:false,
+&quot;plot_title&quot;:{
+&quot;hjust&quot;:0.5,
+&quot;margin&quot;:[10.0,10.0,10.0,10.0],
+&quot;blank&quot;:false
+},
+&quot;axis_ontop_y&quot;:false,
+&quot;axis_ontop_x&quot;:false
+}
+};
+       var plotContainer = document.getElementById(&quot;OfZxNs&quot;);
+       LetsPlot.buildPlotFromProcessedSpecs(plotSpec, -1, -1, plotContainer);
+   &lt;/script>
+   &lt;/body>
+&lt;/html>"></iframe>    
