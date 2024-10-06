@@ -20,8 +20,7 @@
 
 title: Power<wbr>lifting in Data
 email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Powerlifting visualisations that you didn't ask for
+description: Powerlifting visualisations that you didn't ask for
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://powerliftingindata.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iam_carpenter
@@ -33,6 +32,7 @@ instagram_username: 97adele
 theme_color: yellow
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 webrick:
   headers:

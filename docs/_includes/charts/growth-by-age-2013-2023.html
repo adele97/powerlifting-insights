@@ -5,7 +5,7 @@
        &lt;script type=&quot;text/javascript&quot; data-lets-plot-script=&quot;library&quot; src=&quot;https://cdn.jsdelivr.net/gh/JetBrains/lets-plot@v4.3.3/js-package/distr/lets-plot.min.js&quot;>&lt;/script>
    &lt;/head>
    &lt;body>
-          &lt;div id=&quot;OfZxNs&quot;>&lt;/div>
+          &lt;div id=&quot;wtL0zg&quot;>&lt;/div>
    &lt;script type=&quot;text/javascript&quot; data-lets-plot-script=&quot;plot&quot;>
        var plotSpec={
 &quot;ggtitle&quot;:{
@@ -26,6 +26,13 @@
 &quot;aesthetic&quot;:&quot;y&quot;,
 &quot;name&quot;:&quot;Avg. Annual Growth (%)&quot;,
 &quot;limits&quot;:[null,null]
+},{
+&quot;aesthetic&quot;:&quot;y&quot;,
+&quot;limits&quot;:[null,null]
+},{
+&quot;aesthetic&quot;:&quot;x&quot;,
+&quot;discrete&quot;:true,
+&quot;name&quot;:&quot;Age Group&quot;
 }],
 &quot;layers&quot;:[{
 &quot;mapping&quot;:{
@@ -47,6 +54,20 @@
 },
 &quot;data&quot;:{
 }
+},{
+&quot;mapping&quot;:{
+&quot;x&quot;:&quot;ageGroup&quot;
+},
+&quot;stat&quot;:&quot;identity&quot;,
+&quot;color&quot;:&quot;#977cff&quot;,
+&quot;size&quot;:0.5,
+&quot;linetype&quot;:&quot;longdash&quot;,
+&quot;sampling&quot;:&quot;none&quot;,
+&quot;y&quot;:5.84,
+&quot;position&quot;:&quot;identity&quot;,
+&quot;geom&quot;:&quot;line&quot;,
+&quot;data&quot;:{
+}
 }],
 &quot;theme&quot;:{
 &quot;axis_ontop&quot;:false,
@@ -59,7 +80,7 @@
 &quot;axis_ontop_x&quot;:false
 }
 };
-       var plotContainer = document.getElementById(&quot;OfZxNs&quot;);
+       var plotContainer = document.getElementById(&quot;wtL0zg&quot;);
        LetsPlot.buildPlotFromProcessedSpecs(plotSpec, -1, -1, plotContainer);
    &lt;/script>
    &lt;/body>
