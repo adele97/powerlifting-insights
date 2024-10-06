@@ -25,6 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://powerliftingindata.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iam_carpenter
 github_username:  adele97
+github_repo: powerlifting-insights
 instagram_username: 97adele
 
 # Build settings
