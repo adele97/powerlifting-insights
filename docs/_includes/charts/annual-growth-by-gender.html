@@ -1,0 +1,66 @@
+            <iframe src='about:blank' style='border:none !important;' width='600' height='400' srcdoc="&lt;html lang=&quot;en&quot;>
+   &lt;head>
+       &lt;meta charset=&quot;UTF-8&quot;>
+       &lt;style> html, body { margin: 0; overflow: hidden; } &lt;/style>
+       &lt;script type=&quot;text/javascript&quot; data-lets-plot-script=&quot;library&quot; src=&quot;https://cdn.jsdelivr.net/gh/JetBrains/lets-plot@v4.3.3/js-package/distr/lets-plot.min.js&quot;>&lt;/script>
+   &lt;/head>
+   &lt;body>
+          &lt;div id=&quot;mo2zXR&quot;>&lt;/div>
+   &lt;script type=&quot;text/javascript&quot; data-lets-plot-script=&quot;plot&quot;>
+       var plotSpec={
+&quot;ggtitle&quot;:{
+&quot;text&quot;:&quot;Average Annual Growth by Age and Gender 2013 - 2023&quot;
+},
+&quot;mapping&quot;:{
+},
+&quot;data&quot;:{
+&quot;&amp;merged_groups&quot;:[&quot;Male&quot;,&quot;Male&quot;,&quot;Male&quot;,&quot;Male&quot;,&quot;Male&quot;,&quot;Male&quot;,&quot;Male&quot;,&quot;Male&quot;,&quot;Male&quot;,&quot;Male&quot;,&quot;Female&quot;,&quot;Female&quot;,&quot;Female&quot;,&quot;Female&quot;,&quot;Female&quot;,&quot;Female&quot;,&quot;Female&quot;,&quot;Female&quot;,&quot;Female&quot;,&quot;Female&quot;],
+&quot;sex&quot;:[&quot;Male&quot;,&quot;Male&quot;,&quot;Male&quot;,&quot;Male&quot;,&quot;Male&quot;,&quot;Male&quot;,&quot;Male&quot;,&quot;Male&quot;,&quot;Male&quot;,&quot;Male&quot;,&quot;Female&quot;,&quot;Female&quot;,&quot;Female&quot;,&quot;Female&quot;,&quot;Female&quot;,&quot;Female&quot;,&quot;Female&quot;,&quot;Female&quot;,&quot;Female&quot;,&quot;Female&quot;],
+&quot;growth&quot;:[-3.874282243942917,6.34852840368918,7.239242875112106,6.421000693469359,4.247405076731914,0.7388341835165679,1.356651522569008,0.38355556456897144,2.0065733145006925,-1.2062740420394125,0.8992777879706537,9.47303301911484,13.318140316294569,10.505561471323578,8.361358256148034,8.27379667887369,7.076441062630678,6.452901128910438,10.131849033861794,6.05404816140187],
+&quot;ageGroup&quot;:[&quot;10-15&quot;,&quot;16-20&quot;,&quot;21-25&quot;,&quot;26-30&quot;,&quot;31-35&quot;,&quot;36-40&quot;,&quot;41-50&quot;,&quot;51-60&quot;,&quot;61-70&quot;,&quot;71+&quot;,&quot;10-15&quot;,&quot;16-20&quot;,&quot;21-25&quot;,&quot;26-30&quot;,&quot;31-35&quot;,&quot;36-40&quot;,&quot;41-50&quot;,&quot;51-60&quot;,&quot;61-70&quot;,&quot;71+&quot;]
+},
+&quot;kind&quot;:&quot;plot&quot;,
+&quot;scales&quot;:[{
+&quot;aesthetic&quot;:&quot;x&quot;,
+&quot;discrete&quot;:true,
+&quot;name&quot;:&quot;Age Group&quot;
+},{
+&quot;aesthetic&quot;:&quot;y&quot;,
+&quot;name&quot;:&quot;Avg. Annual Growth (%)&quot;,
+&quot;limits&quot;:[null,null]
+},{
+&quot;aesthetic&quot;:&quot;fill&quot;,
+&quot;values&quot;:[&quot;#ffeec0&quot;,&quot;#FEC82F&quot;],
+&quot;name&quot;:&quot;Gender&quot;,
+&quot;limits&quot;:[&quot;Male&quot;,&quot;Female&quot;]
+}],
+&quot;layers&quot;:[{
+&quot;mapping&quot;:{
+&quot;x&quot;:&quot;ageGroup&quot;,
+&quot;y&quot;:&quot;growth&quot;,
+&quot;fill&quot;:&quot;sex&quot;,
+&quot;group&quot;:&quot;&amp;merged_groups&quot;
+},
+&quot;stat&quot;:&quot;identity&quot;,
+&quot;color&quot;:&quot;#323633&quot;,
+&quot;size&quot;:0.3,
+&quot;sampling&quot;:&quot;none&quot;,
+&quot;position&quot;:&quot;dodge&quot;,
+&quot;geom&quot;:&quot;bar&quot;,
+&quot;tooltips&quot;:{
+&quot;lines&quot;:[&quot;Gender|@sex&quot;,&quot;Age Group|@ageGroup&quot;,&quot;Avg. Growth|@growth&quot;],
+&quot;formats&quot;:[{
+&quot;field&quot;:&quot;growth&quot;,
+&quot;format&quot;:&quot;{.1f}%&quot;
+}],
+&quot;disable_splitting&quot;:true
+},
+&quot;data&quot;:{
+}
+}]
+};
+       var plotContainer = document.getElementById(&quot;mo2zXR&quot;);
+       LetsPlot.buildPlotFromProcessedSpecs(plotSpec, -1, -1, plotContainer);
+   &lt;/script>
+   &lt;/body>
+&lt;/html>"></iframe>    
