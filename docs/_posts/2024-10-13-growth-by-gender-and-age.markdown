@@ -38,4 +38,4 @@ Yes you read that right, 61-70. Women, young and old, are flocking to the sport.
 </div>
 
 
-This is makes me even more excited for the future of powerlifting, and the future of women, as we collectively start to see the benefits of living in a strong body.
+This makes me even more excited for the future of powerlifting, and the future of women, as we collectively start to see the benefits of living in a strong body.
