@@ -167,6 +167,39 @@ code {
     }
   }
 
+  .custom-chart-grid {
+
+    text-align: center;
+    max-width: 822px;
+    height: 100%;
+    margin: 1.5em 0;
+
+    @media (min-width: 822px) {
+      // For screens wider than or equal to 822px, use embedded HTML content
+      background-image: none; // Remove SVG background
+      .html-content-grid {
+        max-width: 100%;
+        max-height: 100%;
+        display: block; // Show the embedded HTML content
+      }
+      .svg-content-grid {
+        display: none; // Hide the SVG
+      }
+    }
+  }
+
+  @media (max-width: 822px) {
+    .custom-chart-grid .html-content-grid {
+      display: none;
+    }
+
+    // Show the SVG content by default for smaller screens
+    .custom-chart-grid .svg-content-grid {
+      max-height: 100%;
+      display: block;
+    }
+  }
+
 }
 
 
