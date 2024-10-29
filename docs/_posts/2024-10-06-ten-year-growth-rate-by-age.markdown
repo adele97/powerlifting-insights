@@ -3,6 +3,8 @@ layout: post
 title:  "Growth of Power<wbr>lifting by Age Group"
 date:   2024-10-06 12:59:23 +0200
 categories: posts
+seo_title: Powerlifting age demographics by decade and growth trends by year
+seo_description: This data analysis uses the openpowerlifting database to find that 50% of powerlifters are under 25. This is relatively constant across time. Powerlifting may trend younger as those age groups are also the fastest growing
 ---
 
 It's been really great to see in recent years powerlifting totals being pushed in all age divisions, especially in the juniors.
@@ -39,7 +41,7 @@ Further it includes all meet nominations, so all meets from an individual lifter
 it makes sense to include a lifter's first meets only (as this is a better measure of people entering the sport).
 
 The chart below shows the average annual growth rate of powerlifting meet participation over the last 10 years, by age group. We can clearly see that for all age groups between 15 and 70 years*, the sport is growing.
-The age group of 20-25 is growing the fastest with an average annual growth rate over the last 10 years of 8.8%. 
+The age group of 21-25 is growing the fastest with an average annual growth rate over the last 10 years of 8.8%. 
 The purple dotted line is the average annual growth rate across all groups in that period which comes in at 5.9%.
 
 <div class="custom-chart">
@@ -51,7 +53,7 @@ The purple dotted line is the average annual growth rate across all groups in th
   </div>
 </div>
 
-If we consider that age groups 16-20, 20-25 and 26-30 are above the average growth across all groups, in conjunction with the fact that they make up the bulk of current powerlifters, 
+If we consider that age groups 16-20, 21-25 and 26-30 are above the average growth across all groups, in conjunction with the fact that they make up the bulk of current powerlifters, 
 then we might see it play out that powerlifting competitions as a whole will trend younger. However, that will also depend on the longevity of this new wave of lifters in the sport.
 
 In the next article, we will take a look at the trends of participation in powerlifting meets by gender.

@@ -3,6 +3,8 @@ layout: post
 title:  "Young Women are Starting Power<wbr>lifting in Record Numbers"
 date:   2024-10-13 12:59:23 +0200
 categories: posts
+seo_title: Young Women are Starting Powerlifting in Record Numbers
+seo_description: This data analysis uses the openpowerlifting database to find that powerlifting participation is growing fastest amongst women aged 21-25. Women as a percentage of total lifters is also increasing.
 ---
 
 It's been an epic week for young women in Dutch powerlifting with [Betty Aborah](https://www.instagram.com/bettylifts/) (-63kg) and [Tessa Ophoff](https://www.instagram.com/tessaophoff/) (-76kg) both winning the Junior European Championship in their respective classes.
