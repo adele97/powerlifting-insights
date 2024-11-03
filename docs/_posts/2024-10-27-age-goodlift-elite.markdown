@@ -1,10 +1,11 @@
 ---
 layout: post
+sitemap: true
 title:  "Elite Power<wbr>lifters Peak at Age 30"
 date:   2024-10-27 08:59:23 +0100
 categories: posts
-seo_title: Elite IPF male and female powerlifters reach peak strength at at age 30 according to historical data
-seo_description: This data analysis uses the openpowerlifting database to find the age at which elite powerlifters reach peak strength. This 30 years old for both men and women in all years studied.
+seo_title: "Elite IPF male and female powerlifters reach peak strength at at age 30 according to historical data"
+description: "This data analysis uses the openpowerlifting database to find the age at which elite powerlifters reach peak strength. This 30 years old for both men and women in all years studied."
 ---
 
 For this week's analysis, I wanted to see if there was any relationship between a lifter's age and goodlift points.

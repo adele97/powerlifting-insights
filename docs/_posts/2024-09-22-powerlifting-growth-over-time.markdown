@@ -1,10 +1,11 @@
 ---
 layout: post
+sitemap: true
 title:  "Growth of Power<wbr>lifting by Region"
 date:   2024-09-29 17:59:23 +0200
 categories: posts
 seo_title: Powerlifting is growing fastest in the regions of Europe and the Americas
-seo_description: This data analysis uses the openpowerlifting database to plot the growth of powerlifting by geographic region since the data set began
+description: This data analysis uses the openpowerlifting database to plot the growth of powerlifting by geographic region since the data set began
 ---
 
 It's absolutely no secret that participation the sport of powerlifting has grown over the last few decades. 

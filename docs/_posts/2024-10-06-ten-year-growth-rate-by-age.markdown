@@ -1,10 +1,11 @@
 ---
 layout: post
+sitemap: true
 title:  "Growth of Power<wbr>lifting by Age Group"
 date:   2024-10-06 12:59:23 +0200
 categories: posts
 seo_title: Powerlifting age demographics by decade and growth trends by year
-seo_description: This data analysis uses the openpowerlifting database to find that 50% of powerlifters are under 25. This is relatively constant across time. Powerlifting may trend younger as those age groups are also the fastest growing
+description: This data analysis uses the openpowerlifting database to find that 50% of powerlifters are under 25. This is relatively constant across time. Powerlifting may trend younger as those age groups are also the fastest growing
 ---
 
 It's been really great to see in recent years powerlifting totals being pushed in all age divisions, especially in the juniors.
