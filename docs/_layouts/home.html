@@ -12,10 +12,12 @@
         <div class="clearfix border-bottom-thick header-border">
           <ul class="list-reset right py-1 header-text font-smoothing">
             {% for my_page in site.pages %}
-              {% if my_page.title %}
+            {% if my_page.title and my_page.header_include == true %}
+            {% if my_page.title %}
               <li class="inline-block">
                 <a class="align-middle link-primary header-link mr-2" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
               </li>
+              {% endif %}
               {% endif %}
             {% endfor %}
           </ul>
@@ -61,7 +63,9 @@
       </div>
 
     </div>
-
+    {% if page.show_subscribe %}
+    {% include subscribe.html %}
+    {% endif %}
     {% include footer.html %}
     <script data-goatcounter="https://powerliftingindata.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 

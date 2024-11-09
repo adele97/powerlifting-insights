@@ -10,6 +10,9 @@
     <div>
       {{ content }}
     </div>
+    {% if page.show_subscribe %}
+        {% include subscribe.html %}
+    {% endif %}
 
     {% include footer.html %}
 

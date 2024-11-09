@@ -18,6 +18,8 @@ code {
 
 .prose {
 
+  flex-grow: 1;
+
   a {
     text-decoration: underline dotted;
 
@@ -26,7 +28,7 @@ code {
     }
   }
 
-  p, ol, ul {
+  p, ol, ul, label {
     font-size: $prose-font-size;
     margin-bottom: 1em;
     width: 100%;
@@ -35,6 +37,32 @@ code {
       width: (10 / 12 * 100%); // matches col-10
     }
 
+  }
+
+  input {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+
+    @media (max-width: $breakpoint-lg) {
+      width: 90% !important;
+
+    }
+  }
+
+  input[type=submit] {
+    width: 20%;
+    color: $white;
+    background: $black;
+    border: 1px solid $black;
+
+    &:hover {
+      border: 1px solid $white;
+    }
   }
 
   ul, ol {
@@ -199,7 +227,6 @@ code {
       display: block;
     }
   }
-
 }
 
 

@@ -2,6 +2,7 @@
 layout: page
 title: About
 sitemap: true
+header_include: true
 permalink: /about/
 ---
 
@@ -11,7 +12,7 @@ I use the [open powerlifting](https://www.openpowerlifting.org) database to put 
 At the moment I use the IPF dataset as it's smaller and easier to work with. Just while I figure out wtf I am trying to do here, 
 and if anybody else finds this stuff as interesting as I do.
 
-If you have any questions, or have a visualisation you'd like to see feel free to [reach out](mailto:adele@adelecarpenter.com)
+If you have any questions, or have a visualisation you'd like to see feel free to [reach out](mailto:info@powerliftingindata.com)
 
 
 #### For the nerds ####

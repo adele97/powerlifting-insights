@@ -19,14 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Power<wbr>lifting in Data
-email: your-email@example.com
+email: info@powerliftingindata.com
 description: Powerlifting visualisations that you didn't ask for
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://powerliftingindata.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://powerliftingindata.com"
 twitter_username: iam_carpenter
 github_username:  adele97
 github_repo: powerlifting-insights
 instagram_username: powerliftingindata
+
 
 # Build settings
 #remote_theme: broccolini/swiss
@@ -35,12 +36,32 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      show_subscribe: true
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_subscribe: true
+  -
+    scope:
+      path: ""
+    values:
+      header_include: false
+
 webrick:
   headers:
     Access-Control-Allow-Origin: "*"
     Cache-Control: "no-cache, no-store"
   mime_types:
     svg: "image/svg+xml"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
