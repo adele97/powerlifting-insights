@@ -54,6 +54,10 @@ defaults:
       path: ""
     values:
       header_include: false
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/PiD-image.png
 
 webrick:
   headers:
