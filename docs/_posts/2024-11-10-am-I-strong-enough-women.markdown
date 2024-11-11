@@ -44,7 +44,7 @@ What does this mean for you? Stop putting off your first meet. You are already s
   <div class="svg-content-grid">
     <img src="/assets/charts/box-plot-first-meet-43-women.svg" alt="box plot showing distribution of first meet attempts for 43kg women">
     <img src="/assets/charts/box-plot-first-meet-47-women.svg" alt="box plot showing distribution of first meet attempts for 47kg women">
-    <img src="/assets/charts/box-plot-first-meet-53-women.svg" alt="box plot showing distribution of first meet attempts for 52kg women">
+    <img src="/assets/charts/box-plot-first-meet-52-women.svg" alt="box plot showing distribution of first meet attempts for 52kg women">
     <img src="/assets/charts/box-plot-first-meet-57-women.svg" alt="box plot showing distribution of first meet attempts for 57kg women">
     <img src="/assets/charts/box-plot-first-meet-63-women.svg" alt="box plot showing distribution of first meet attempts for 63kg women">
     <img src="/assets/charts/box-plot-first-meet-69-women.svg" alt="box plot showing distribution of first meet attempts for 69kg women">
