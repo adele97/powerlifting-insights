@@ -1,0 +1,12 @@
+User-agent: *
+
+Disallow: /admin/
+Disallow: /subscribe-confirmed/
+Disallow: /subscribe-unconfirmed/
+
+Allow: /
+
+Sitemap: https://www.powerliftingindata.com/sitemap.xml
+
+User-agent: GPTBot
+Disallow: /
