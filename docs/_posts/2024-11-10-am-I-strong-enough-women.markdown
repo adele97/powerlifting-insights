@@ -2,6 +2,7 @@
 layout: post
 sitemap: true
 title:  "Am I Strong Enough To Compete? Women's Edition"
+title_rss:  "Am I Strong Enough To Compete? Women's Edition"
 date:   2024-11-10 11:20:00 +0100
 categories: posts
 seo_title: "Am I Strong Enough To Compete? Distribution of lift performance in first meets by weight class"

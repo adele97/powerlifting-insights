@@ -2,6 +2,7 @@
 layout: post
 sitemap: true
 title:  "Young Women are Starting Power<wbr>lifting in Record Numbers"
+title_rss:  "Young Women are Starting Powerlifting in Record Numbers"
 date:   2024-10-13 12:59:23 +0200
 categories: posts
 seo_title: Young Women are Starting Powerlifting in Record Numbers

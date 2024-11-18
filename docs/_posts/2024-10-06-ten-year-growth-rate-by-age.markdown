@@ -2,6 +2,7 @@
 layout: post
 sitemap: true
 title:  "Growth of Power<wbr>lifting by Age Group"
+title_rss:  "Growth of Powerlifting by Age Group"
 date:   2024-10-06 12:59:23 +0200
 categories: posts
 seo_title: Powerlifting age demographics by decade and growth trends by year

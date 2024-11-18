@@ -2,6 +2,7 @@
 layout: post
 sitemap: true
 title:  "Powerlifters That Go 9/9 Are 32% More Likely To Win"
+title_rss:  "Powerlifters That Go 9/9 Are 32% More Likely To Win"
 date:   2024-11-03 11:59:23 +0100
 categories: posts
 seo_title: "Powerlifters That Go 9/9 Instead Of 7/9 Are 32% More Likely To Win"

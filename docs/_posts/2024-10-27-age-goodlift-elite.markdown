@@ -2,6 +2,7 @@
 layout: post
 sitemap: true
 title:  "Elite Power<wbr>lifters Peak at Age 30"
+title_rss:  "Elite Powerlifters Peak at Age 30"
 date:   2024-10-27 08:59:23 +0100
 categories: posts
 seo_title: "Elite IPF male and female powerlifters reach peak strength at at age 30 according to historical data"
