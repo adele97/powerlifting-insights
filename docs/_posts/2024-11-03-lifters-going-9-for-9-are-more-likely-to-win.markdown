@@ -71,5 +71,5 @@ Oh yeah, and a 2.5kg jump on your RPE 9.5 second attempt bench is probably enoug
 
 
 <br>
-<p style="font-size: 10px;">*The data used in this post is for meets held in the last 10 (complete) years, where there were at least 10 lifters competing in a weight class. This reduces the influence of chance (although it does not eliminate it), while still admitting enough data for the analysis to be useful. As always, the data set is from <a href="https://www.openpowerlifting.org">openpowerlifting.org</a></p>
+<p style="font-size: 10px;">*The data used in this post is for meets held in the last 10 (complete) years, where there were at least 5 lifters competing in a weight class. This reduces the influence of chance (although it does not eliminate it), while still admitting enough data for the analysis to be useful. As always, the data set is from <a href="https://www.openpowerlifting.org">openpowerlifting.org</a></p>
 <p style="font-size: 10px;">**elite are meets where the IPF runs it. This consists mostly World Championships, although there are others</p>

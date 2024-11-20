@@ -10,112 +10,112 @@
 text {
    text-rendering: optimizeLegibility;
 }
-#p4UrFx4 .plot-title {
+#prY6hxO .plot-title {
    fill: #474747;
    font-family: Helvetica Neue;
    font-size: 17.0px;
    font-weight: normal;
    font-style: normal;   
 }
-#p4UrFx4 .plot-subtitle {
+#prY6hxO .plot-subtitle {
    fill: #474747;
    font-family: Helvetica Neue;
    font-size: 15.0px;
    font-weight: normal;
    font-style: normal;   
 }
-#p4UrFx4 .plot-caption {
+#prY6hxO .plot-caption {
    fill: #474747;
    font-family: Helvetica Neue;
    font-size: 13.0px;
    font-weight: normal;
    font-style: normal;   
 }
-#p4UrFx4 .legend-title {
+#prY6hxO .legend-title {
    fill: #474747;
    font-family: Helvetica Neue;
    font-size: 15.0px;
    font-weight: normal;
    font-style: normal;   
 }
-#p4UrFx4 .legend-item {
+#prY6hxO .legend-item {
    fill: #474747;
    font-family: Helvetica Neue;
    font-size: 13.0px;
    font-weight: normal;
    font-style: normal;   
 }
-#p4UrFx4 .axis-title-x {
+#prY6hxO .axis-title-x {
    fill: #474747;
    font-family: Helvetica Neue;
    font-size: 15.0px;
    font-weight: normal;
    font-style: normal;   
 }
-#p4UrFx4 .axis-text-x {
+#prY6hxO .axis-text-x {
    fill: #474747;
    font-family: Helvetica Neue;
    font-size: 13.0px;
    font-weight: normal;
    font-style: normal;   
 }
-#dR0kJhV .axis-tooltip-text-x {
+#dTVl8bV .axis-tooltip-text-x {
    fill: #ffffff;
    font-family: Helvetica Neue;
    font-size: 13.0px;
    font-weight: normal;
    font-style: normal;   
 }
-#p4UrFx4 .axis-title-y {
+#prY6hxO .axis-title-y {
    fill: #474747;
    font-family: Helvetica Neue;
    font-size: 15.0px;
    font-weight: normal;
    font-style: normal;   
 }
-#p4UrFx4 .axis-text-y {
+#prY6hxO .axis-text-y {
    fill: #474747;
    font-family: Helvetica Neue;
    font-size: 13.0px;
    font-weight: normal;
    font-style: normal;   
 }
-#dR0kJhV .axis-tooltip-text-y {
+#dTVl8bV .axis-tooltip-text-y {
    fill: #ffffff;
    font-family: Helvetica Neue;
    font-size: 13.0px;
    font-weight: normal;
    font-style: normal;   
 }
-#p4UrFx4 .facet-strip-text-x {
+#prY6hxO .facet-strip-text-x {
    fill: #474747;
    font-family: Helvetica Neue;
    font-size: 13.0px;
    font-weight: normal;
    font-style: normal;   
 }
-#p4UrFx4 .facet-strip-text-y {
+#prY6hxO .facet-strip-text-y {
    fill: #474747;
    font-family: Helvetica Neue;
    font-size: 13.0px;
    font-weight: normal;
    font-style: normal;   
 }
-#dR0kJhV .tooltip-text {
+#dTVl8bV .tooltip-text {
    fill: #474747;
    font-family: Helvetica Neue;
    font-size: 13.0px;
    font-weight: normal;
    font-style: normal;   
 }
-#dR0kJhV .tooltip-title {
+#dTVl8bV .tooltip-title {
    fill: #474747;
    font-family: Helvetica Neue;
    font-size: 13.0px;
    font-weight: bold;
    font-style: normal;   
 }
-#dR0kJhV .tooltip-label {
+#dTVl8bV .tooltip-label {
    fill: #474747;
    font-family: Helvetica Neue;
    font-size: 13.0px;
@@ -124,7 +124,7 @@ text {
 }
 
   </style>
-  <g id="p4UrFx4">
+  <g id="prY6hxO">
     <path fill-rule="evenodd" fill="rgb(255,255,255)" fill-opacity="1.0" d="M0.0 0.0 L0.0 400.0 L600.0 400.0 L600.0 0.0 Z">
     </path>
     <g transform="translate(34.5 73.5 ) ">
@@ -284,7 +284,7 @@ text {
           </g>
         </g>
       </g>
-      <g clip-path="url(#cngi8DD)" clip-bounds-jfx="[rect (21.961210910936405, 0.0), (507.0387890890636, 231.0)]">
+      <g clip-path="url(#c0qVBZ5)" clip-bounds-jfx="[rect (21.961210910936405, 0.0), (507.0387890890636, 231.0)]">
         <g transform="translate(21.961210910936405 0.0 ) ">
           <g>
             <g>
@@ -313,13 +313,13 @@ text {
           </g>
         </g>
         <defs>
-          <clipPath id="c855VBJ">
+          <clipPath id="cuDkrBP">
             <rect x="21.961210910936405" y="0.0" width="507.0387890890636" height="231.0">
             </rect>
           </clipPath>
         </defs>
         <defs>
-          <clipPath id="cngi8DD">
+          <clipPath id="c0qVBZ5">
             <rect x="21.961210910936405" y="0.0" width="507.0387890890636" height="231.0">
             </rect>
           </clipPath>
@@ -335,7 +335,7 @@ text {
     </g>
     <g transform="translate(309.9806054554682 59.0 ) ">
       <text class="plot-subtitle" y="0.0" text-anchor="middle">
-        <tspan>at least 10 lifters in weight class</tspan>
+        <tspan>at least 5 lifters in weight class</tspan>
       </text>
     </g>
     <g transform="translate(21.0 189.0 ) rotate(-90.0 ) ">
@@ -356,6 +356,6 @@ text {
     <path fill="rgb(0,0,0)" fill-opacity="0.0" stroke="rgb(71,71,71)" stroke-opacity="1.0" stroke-width="0.0" d="M0.0 0.0 L0.0 400.0 L600.0 400.0 L600.0 0.0 Z">
     </path>
   </g>
-  <g id="dR0kJhV">
+  <g id="dTVl8bV">
   </g>
 </svg>
