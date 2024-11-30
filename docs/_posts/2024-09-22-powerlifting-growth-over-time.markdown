@@ -36,6 +36,6 @@ Participation in Africa by the end of 2023 is above pre-covid levels.
 
 Also worth noting is the significant drop in participation in the Americas in the 1980s. My best explanation for that 
 is not that the sport stopped growing there, but because there was more diversification in powerlifting federations around that time. 
-However, feel free to [reach out](mailto:adele@adelecarpenter.com) if you can add more insight to that observation.
+However, feel free to [reach out](mailto:info@powerliftingindata.com) if you can add more insight to that observation.
 
 In the next articles, I will explore the demographics of powerlifting, focusing on age and gender.
