@@ -28,7 +28,7 @@ Where weight class value was not present in the database, the weight class was i
 ### Women's weight classes
 
 For all women's weight classes, the highest total achieved in 2024 is greater than those achieved in 2015. The largest increase was for the 84kg class with a jump of 23.6% (523.5kg in 2015 vs 647kg in 2024).
-The largest single year jump in that class was by Daniela Melo who totalled 601.5kg in the 2018 IPF World Classic Powerlifting Championship (a 10.9% on the highest 2017 total). Amanda Lawrence came second in that event with a total of 591kg and has gone on to dominate that class in the following years.
+The largest single year jump in that class was by Daniela Melo who totalled 601.5kg in the 2018 IPF World Classic Powerlifting Championship (a 10.9% jump on the highest 2017 total). Amanda Lawrence came second in that event with a total of 591kg and has gone on to dominate that class in the following years.
 
 It is also worth noting is the rapid growth in the totals of the newest weight classes of 69kg and 76kg introduced in 2021. Which can't really be a surprise as these classes are absolutely stacked at the elite level (think the likes of Agata Sitko, Lya Bavoil, Carola Garra, Jessica Buettner and Karlina Tongotea)
 
