@@ -3,7 +3,7 @@ layout: post
 sitemap: true
 title:  "10 year Growth of Highest Totals"
 title_rss:  "10 year Growth of Highest Totals"
-date:   2024-12-01 09:00:00 +0100
+date:   2024-12-01 08:00:00 +0100
 categories: posts
 seo_title: "10 year Growth of Highest Totals"
 description: "This article plots the highest powerlifting totals per yer per weight class from 2015 to 2024. The data for this analysis comes from the openpowerlifting database."
