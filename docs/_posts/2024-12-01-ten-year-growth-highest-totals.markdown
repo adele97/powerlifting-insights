@@ -59,7 +59,7 @@ However, Wascar Carpio put in a stunning performance at the World Championships 
 The 120kg class has stayed relatively flat with a 3.2% jump from 2015 to 2024 (947.5kg vs 978.5kg). The highest totals for this year in this class have been set by Bobb Mathews, who is a light 120kg weighing it at 106.25 when he totalled 978.5kg at Classic Raw Open Nationals in Reno in March.
 So we could be set to see totals in the 120s explode in the next few years as Mathews fills out the weight class.
 
-<p style="text-align:center">Highest total per year per weight class Women (IPF 2015-2024)</p>
+<p style="text-align:center">Highest total per year per weight class Men (IPF 2015-2024)</p>
 
 
 <div class="custom-chart">
@@ -67,7 +67,7 @@ So we could be set to see totals in the 120s explode in the next few years as Ma
     {% include charts/2015-2024-highest-totals-by-weightclass-men.html %}
   </div>
   <div class="svg-content">
-    <img src="/assets/charts/2015-2024-highest-totals-by-weightclass-men.svg" alt="a multi line chart showing the Highest total per year in all Women's weight classes (IPF 2015-2024)">
+    <img src="/assets/charts/2015-2024-highest-totals-by-weightclass-men.svg" alt="a multi line chart showing the Highest total per year in all Men's weight classes (IPF 2015-2024)">
   </div>
 </div>
 
