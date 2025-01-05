@@ -1,11 +1,11 @@
 ---
 layout: post
 sitemap: true
-title:  "New Year New Weight class? Two Proposals Beyond 84kg"
-title_rss:  "New Year New Weight class? Two Proposals Beyond 84kg"
+title:  "New Year, New Weight class? Two Proposals Beyond 84kg"
+title_rss:  "New Year, New Weight class? Two Proposals Beyond 84kg"
 date:   2025-01-05 12:00:00 +0100
 categories: posts
-seo_title: "New Year New Weight class? Two Proposals Beyond 84kg"
+seo_title: "New Year, New Weight class? Two Proposals Beyond 84kg"
 description: "This article makes two proposals to increase the limit of the super heavy weight class for women in IPF powerlifting. The data for this analysis comes from the openpowerlifting database."
 ---
 
